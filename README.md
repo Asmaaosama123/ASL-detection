@@ -12,12 +12,6 @@ This repository contains the following contents.
 * Learning data for hand sign recognition and notebook for learning
 * Learning data for finger gesture recognition and notebook for learning
 
-# Requirements
-* mediapipe 0.10.11
-* OpenCV 4.9.0
-* Tensorflow 2.16.1 <br> tf-nightly 2.17.0.dev (Only when creating a TFLite for an LSTM model)
-* scikit-learn 1.4.1.post1 (Only if you want to display the confusion matrix) 
-* matplotlib 3.8.3 (Only if you want to display the confusion matrix)
 
 # Demo
 Here's how to run the demo using your webcam.
